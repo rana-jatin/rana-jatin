@@ -69,11 +69,12 @@ I build AI systems that ship — from multi-agent architectures to emotion-aware
 ## 🏆 Achievements
 
 ```
-🥇  Amazon ML Challenge        → Rank 415 (national-level ML hackathon)
-🏅  HackQuest Winner           → 2023 & 2024
-🎓  JEE 2023                   → 99.34 percentile
-🔬  IEEE Publication            → Sensors Letters (2024)
-🧊  IBM Quantum Certified      → Quantum Foundational
+🥇  IIT Bombay AI Eduthon        → Rank 2nd (national-level ML hackathon)
+🏅  HackQuest Winner             → 2023 & 2024
+🔬  IEEE Publication             → Sensors Letters (2024)
+🔬  IEEE Publication(A*)         → Journal of Selected Topics in Quantum Electronics (2026)
+🧊  IBM Quantum Certified        → Quantum Foundational
+🎓  JEE 2023                     → 99.34 percentile
 ```
 
 ---
@@ -125,12 +126,12 @@ I build AI systems that ship — from multi-agent architectures to emotion-aware
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin-rana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jatin-rana&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rana-jatin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rana-jatin&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-rana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-jatin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="40%" />
 </p>
 
 ---
@@ -140,5 +141,5 @@ I build AI systems that ship — from multi-agent architectures to emotion-aware
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatin-rana&style=flat-square&color=58a6ff" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rana-jatin&style=flat-square&color=58a6ff" alt="Profile views" />
 </p>
