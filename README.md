@@ -12,7 +12,7 @@
 
 ## `> whoami`
 
-B.Tech ECE @ **MNNIT Allahabad** (2023–27) · **JEE 99.34%ile** · IEEE-published researcher · Robotics Club Mentor
+B.Tech ECE @ **MNNIT Allahabad** (2023–27) · **IEEE-published researcher** · **Co-founder** · Robotics Club Coordinator
 
 I build AI systems that ship — from multi-agent architectures to emotion-aware mental health platforms. Research interests span **explainable AI**, **novel neural architectures (KANs)**, and **3D generative pipelines**. When I'm not coding, I'm playing competitive hockey at inter NIT-IIT level.
 
@@ -23,7 +23,7 @@ I build AI systems that ship — from multi-agent architectures to emotion-aware
 | Paper | Venue | Status |
 |-------|-------|--------|
 | *Intervention of ML and Explainable AI in Fiber Optic Sensor Device Data for Systematic Performance-Optimization* | **IEEE Sensors Letters** | ✅ Published |
-| *Comparative Analysis of Feedforward MLP and Kolmogorov-Arnold Network on PCF Sensor* | IEEE (target) | 📝 Communicated |
+| *Comparative Analysis of Feedforward MLP and Kolmogorov-Arnold Network on PCF Sensor* | IEEE (target) | ✅ Published |
 
 **Key contributions:** Explainable AI for photonic crystal fiber SPR sensors · KAN vs ANN benchmarking with rigorous statistical validation · ML-driven confinement loss prediction pipelines
 
