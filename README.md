@@ -23,7 +23,7 @@ I build AI systems that ship — from multi-agent architectures to emotion-aware
 | Paper | Venue | Status |
 |-------|-------|--------|
 | *Intervention of ML and Explainable AI in Fiber Optic Sensor Device Data for Systematic Performance-Optimization* | **IEEE Sensors Letters** | ✅ Published |
-| *Comparative Analysis of Feedforward MLP and Kolmogorov-Arnold Network on PCF Sensor* | IEEE (target) | ✅ Published |
+| *Comparative Analysis of Feedforward MLP and Kolmogorov-Arnold Network on PCF Sensor* | IEEE Journal of **Quantum Electronics** | ✅ Published |
 
 **Key contributions:** Explainable AI for photonic crystal fiber SPR sensors · KAN vs ANN benchmarking with rigorous statistical validation · ML-driven confinement loss prediction pipelines
 
