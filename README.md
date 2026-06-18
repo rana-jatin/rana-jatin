@@ -1,6 +1,6 @@
 <!--
 ========================================================================
-  TODO BEFORE PUSHING — fill these 4 placeholders:
+  TODO BEFORE PUSHING - fill these 4 placeholders:
   1. LinkedIn URL        → search "YOUR-LINKEDIN-HANDLE"
   2. WhatsApp number     → search "91XXXXXXXXXX"
   3. MindMitra live URL  → search "MINDMITRA-LIVE-URL"
@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-rana-340726251/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917055184188)
 
-![IEEE](https://img.shields.io/badge/IEEE-A*_First--Author-00629B?style=flat-square&logo=ieee&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE-Q1_First--Author-00629B?style=flat-square&logo=ieee&logoColor=white)
 ![Production](https://img.shields.io/badge/MindMitra-Live_in_Production-2ea043?style=flat-square)
 ![JEE](https://img.shields.io/badge/JEE_2023-99.34_%25ile-orange?style=flat-square)
 
@@ -28,56 +28,66 @@
 
 ## `> whoami`
 
-**B.Tech ECE @ MNNIT Allahabad** (2023–27) · **Co-founder & CEO, [MindMitra](#-mindmitra--ai-mental-health-companion)** · **First-author IEEE (A\*) researcher** · Robotics Club Coordinator
+**B.Tech ECE @ MNNIT Allahabad** (2023–27) · **Co-founder, [MindMitra](#-mindmitra--ai-mental-health-companion)** · **First-author IEEE (Q1) researcher** · Robotics Club Coordinator
 
-Most people building AI ship a demo. I ship to **production** — a culturally-grounded mental-health platform serving real users in Hindi — and then publish **peer-reviewed research** on the methods underneath it. My work sits at the intersection of **explainable AI**, **novel neural architectures (KANs)**, and **agentic 3D pipelines**. Off-screen, I play competitive field hockey at the inter-NIT/IIT level.
+Most people building AI ship a demo. I ship to **production** - a culturally-grounded mental-health platform serving real users in Hindi - and then publish **peer-reviewed research** on the methods underneath it. My work sits at the intersection of **explainable AI**, **novel neural architectures (KANs)**, and **agentic 3D pipelines**. Off-screen, I play competitive field hockey at the inter-NIT/IIT level.
 
 ---
 
 ## 🚀 Featured Work
 
-### 🧠 MindMitra — AI Mental-Health Companion &nbsp; [![Live](https://img.shields.io/badge/▲-Live-2ea043?style=flat-square)](https://MINDMITRA-LIVE-URL)
+### 🧠 MindMitra - AI Mental-Health Companion &nbsp; [![Live](https://img.shields.io/badge/▲-Live-2ea043?style=flat-square)](https://MINDMITRA-LIVE-URL)
 > Hindi-first, culturally-grounded mental-health support. **In production. Serving real users.**
 
-- **Live**, not a prototype — Railway (backend) + Vercel (frontend). **~21K LOC** (6K Python · 15K+ React/TS).
-- **Intent-routed 4-path pipeline across 5 LLM providers** — contextual analysis + empathetic response generation.
+- **Live**, not a prototype - Railway (backend) + Vercel (frontend). **~21K LOC** (6K Python · 15K+ React/TS).
+- **Intent-routed 4-path pipeline across 5 LLM providers** - contextual analysis + empathetic response generation.
 - **3-layer crisis-detection gate** + **PHQ-9 / GAD-7** clinical screening, advised by an **NABH-accredited MD**.
-- **3D lip-synced avatar** — TalkingHead v1.7 + a custom **MindMitraBridge (893 lines)**.
-- **Persistent memory** — mem0 + Qdrant (semantic / episodic / procedural) over a **12-table Supabase Postgres** with row-level security.
+- **3D lip-synced avatar** - TalkingHead v1.7 + a custom **MindMitraBridge (893 lines)**.
+- **Persistent memory** - mem0 + Qdrant (semantic / episodic / procedural) over a **12-table Supabase Postgres** with row-level security.
 - **5 companion personas**, **7 therapeutic games**.
 - Built with co-founder **Harshit Mathur** (IIT ISM Dhanbad · ex-Zepto SDE).
 
 `React` · `TypeScript` · `Python` · `Supabase` · `Qdrant` · `mem0` · `Three.js` · `Railway`
 
-&nbsp;&nbsp;&nbsp;[**→ Live Demo**](https://mindmitra.co.in/) &nbsp;|&nbsp; [**→ Architecture**](https://github.com/rana-jatin/mindmitra)
+&nbsp;&nbsp;&nbsp;[**→ Live Demo**](https://mindmmitra.co.in/) &nbsp;|&nbsp; [**→ Architecture**](https://github.com/rana-jatin/mindmitra)
 
 <br>
 
-### 🎮 Prompt2Mesh — Agentic Text-to-3D
+### 🦀 raeth - Deterministic CLOB Matching Engine (Rust)
+> A central-limit-order-book matching engine built for what exchanges actually care about: correctness, determinism, and predictable latency - not feature breadth.
+
+- **~14.4M orders/sec at ~70 ns/order** on a laptop CPU - *measured* (criterion + HDR histograms), not asserted.
+- **Zero heap allocation** on the steady-state hot path · **no `unsafe`** · **no floating point** anywhere.
+- Strict price-time priority, never crosses the book, conserves shares exactly, replays **bit-for-bit deterministically**.
+- Correctness proven with **property tests** over hundreds of randomized command streams.
+
+`Rust` · `zero-alloc` · `property-testing` · `criterion` &nbsp;&nbsp; [**→ Repo**](https://github.com/rana-jatin/raeth-matching-engine)
+
+<br>
+
+### 🎮 Prompt2Mesh - Agentic Text-to-3D
 > Presented at the **Sankalp Innovation Challenge 2026**, MNNIT.
 
 - **6-stage agentic pipeline**: prompt → scene graph → 3D generation → optimization.
 - Groq NLP · FAISS semantic retrieval · Gaussian Splatting reconstruction.
 - **Blender MCP integration** for automated mesh post-processing.
 
-`Groq` · `FAISS` · `Gaussian Splatting` · `Blender` · `Python` &nbsp;&nbsp; [**→ Repo**](https://github.com/rana-jatin/prompt2mesh)
+`Groq` · `FAISS` · `Gaussian Splatting` · `Blender` · `Python` &nbsp;&nbsp; [**→ Repo**](https://github.com/vanshika-0305/Prompt2Mesh/tree/main)
 
 <br>
 
-### ⚡ Multi-Agent Code Optimization & Risk Analysis
-> Automated code-quality system — error detection, performance optimization, maintainability scoring.
+**Also on GitHub:** [Multi-agent code optimizer](https://github.com/rana-jatin/aiquest) · [Ayurvedic AI prognosis](https://github.com/rana-jatin/classifi) · [full repo list →](https://github.com/rana-jatin?tab=repositories)
 
-- Multi-agent architecture for error detection, performance tuning, and readability/maintainability metrics.
-- *(Anchor your impact numbers to a benchmark before publishing — e.g. "X% fewer runtime failures on \<dataset\>".)*
+---
 
-`Python` · `Multi-Agent Systems` &nbsp;&nbsp; [**→ Repo**](https://github.com/rana-jatin/aiquest)
+## 🔬 Research-Grade Builds
 
-<br>
+*Focused, reproducible artifacts - each extends a specific paper or lab's line of work, built to be read, run, and verified (CI, real benchmarks, honest null results).*
 
-### 🩺 Ayurvedic AI Prognosis System
-> Full-stack healthcare AI for traditional medicine — multimodal diagnostics, real-time prognosis support.
-
-`React` · `Node.js` · `Deep Learning` &nbsp;&nbsp; [**→ Repo**](https://github.com/rana-jatin/classifi)
+- **[affect-equity-audit](https://github.com/rana-jatin/affect-equity-audit)** - Cross-lingual fairness + interpretability audit of text affect recognition (EN vs TR). Extends Cambridge **AFAR Lab**'s subgroup-fairness line to a *language* axis; from-scratch KAN + SHAP + U-Fair metrics against an XLM-R baseline. &nbsp; `Python` · `fairness` · `KAN` · `SHAP`
+- **[int4-ssm-scan](https://github.com/rana-jatin/int4-ssm-scan)** - Fused **INT4-dequant + Triton associative-scan** for a diagonal linear SSM (LRU-style), benchmarked vs an fp16 baseline for latency *and* quality - the weight-quantization axis complementary to CompreSSM's state truncation. &nbsp; `Triton` · `GPU` · `quantization` · `SSM`
+- **[kan-orbital-free-functionals](https://github.com/rana-jatin/kan-orbital-free-functionals)** - Learning the 1D kinetic-energy density functional `T[n]` with a **KAN** vs KRR/MLP: an orbital-free-DFT proof-of-concept with interpretable splines and a smooth functional derivative `δT/δn`. &nbsp; `Python` · `DFT` · `KAN` · `scientific-ML`
+- **[reservoir-vaccinomics](https://github.com/rana-jatin/reservoir-vaccinomics)** - **Reservoir computing** (Echo State Networks) for longitudinal systems-vaccinology transcriptomics; temporal ML on real yellow-fever vaccine-trial data, benchmarked against ridge and LSTM. &nbsp; `Python` · `reservoir-computing` · `time-series` · `bioinformatics`
 
 ---
 
@@ -85,10 +95,10 @@ Most people building AI ship a demo. I ship to **production** — a culturally-g
 
 | Paper | Venue | Year |
 | ----- | ----- | ---- |
-| *Ultralow Prediction Error in SPR-Based PCF Sensor Using KAN and ANN* — **first author** | **IEEE J. Selected Topics in Quantum Electronics (Q1)** | 2026 |
+| *Ultralow Prediction Error in SPR-Based PCF Sensor Using KAN and ANN* - **first author** | **IEEE J. Selected Topics in Quantum Electronics (Q1)** | 2026 |
 | *Intervention of ML & Explainable AI in Fiber-Optic Sensor Data for Systematic Performance Optimization* | **IEEE Sensors Letters** | 2024 |
 
-**Headline results:** A Kolmogorov-Arnold Network cuts confinement-loss prediction error to **MAPE 0.02193** — roughly **half** the ANN baseline (0.04327) — on gold-coated PCF-SPR sensors. A CatBoost + SHAP explainability pipeline reaches **R² 0.9997** on fiber-optic figure-of-merit prediction.
+**Headline results:** A Kolmogorov-Arnold Network cuts confinement-loss prediction error to **MAPE 0.02193** - roughly **half** the ANN baseline (0.04327) - on gold-coated PCF-SPR sensors. A CatBoost + SHAP explainability pipeline reaches **R² 0.9997** on fiber-optic figure-of-merit prediction.
 
 **Focus:** explainable AI for photonic-crystal-fiber sensors · KAN vs ANN benchmarking with rigorous statistical validation · ML-driven confinement-loss prediction.
 
@@ -102,7 +112,7 @@ Most people building AI ship a demo. I ship to **production** — a culturally-g
 🥈  IIT Bombay AI Eduthon   →  National Rank 2   (ML hackathon)
 🏅  HackQuest               →  Winner, 2023 & 2024
 🤖  MNNIT Robotics Club     →  Coordinator · led BotRush 4.0 (₹40K pool, 3LC.ai-sponsored)
-🧊  IBM Quantum             →  Certified — Quantum Foundational
+🧊  IBM Quantum             →  Certified - Quantum Foundational
 🎓  JEE 2023                →  99.34 percentile
 ```
 
